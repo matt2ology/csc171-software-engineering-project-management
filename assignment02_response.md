@@ -144,6 +144,10 @@ Round up your iteration result to a whole number.
 
 ## 23. QUESTION 23
 
+A team is planning for a date-driven projects.  The team's expected velocity
+is 8 story points, the project has 10 iterations, and the following shows the
+story points of user stories in priority order:
+
 |US1|US2|US3|US4|US5|US6|US7|US8|US9|US10|
 |---|---|---|---|---|---|---|---|---|--- |
 |2|8|1|3|5|3|5|13|5|5
