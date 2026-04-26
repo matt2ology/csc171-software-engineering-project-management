@@ -1,6 +1,8 @@
 # csc171-software-engineering-project-management
 CSC 171. Software Engineering Project Management. 3 Units - FALL 2022
 
+[Dr. Yu Chen](https://www.linkedin.com/in/yuchen8/)
+
 Fundamental issues in the management and economics of a software engineering
 project in the context of the software development lifecycle.
 
